@@ -8,3 +8,4 @@ Look to know current weather
 * fully responsive
 
 ## Preview
+![](preview/preview.png)
